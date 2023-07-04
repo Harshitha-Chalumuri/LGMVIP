@@ -8,13 +8,23 @@ Three class for classification are as follows:
 ![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/49083c79-323d-4cfd-869c-8e38ae4ddbf1)
 
 
-Features Used :
--1. Sepal length in cm 
--2. Sepal width in cm 
--3. Petal length in cm 
--4. Petal width in cm
+**Features Used :**
+1. Sepal length in cm 
+2. Sepal width in cm 
+3. Petal length in cm 
+4. Petal width in cm
 
-![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/0d5a37af-7ee8-4ad1-b717-21365a988422)
+**Data Analysis :**
+1. Descriptive statistics- SD, Min, Max etc .
+2. Class Distribution (Species counts are balanced or imbalanced) – Balanced.
+3. Univariate Plots:- Understand each attribute better
+
+**Box and whisker plots(Give idea about distribution of input attributes)**
+![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/e0cf6bd0-860c-47f2-8f90-ffd53ec82c02)
+
+
+
+
 
 
 
