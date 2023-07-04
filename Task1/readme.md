@@ -28,7 +28,8 @@ Three class for classification are as follows:
 
 **Plotting Histogram:**
 
-![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/3f0ef3ff-148f-4f69-82cb-345687a27fd1)
+![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/f96d906f-5d79-4de0-8152-6cf6afa18790)
+
 
 
 
