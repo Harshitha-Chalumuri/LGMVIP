@@ -26,6 +26,16 @@ Three class for classification are as follows:
 ![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/e0cf6bd0-860c-47f2-8f90-ffd53ec82c02)
 
 
+**Plotting Histogram:**
+
+![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/3f0ef3ff-148f-4f69-82cb-345687a27fd1)
+
+
+
+
+
+
+
 
 
 
