@@ -1,6 +1,5 @@
 # LGMVIP
-lgm.jpg
-![alt text](http://url/to/img.png)
+
 ## Author- Harshitha Chalumuri
 
   
