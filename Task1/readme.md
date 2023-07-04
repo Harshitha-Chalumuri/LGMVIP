@@ -4,7 +4,9 @@ Three class for classification are as follows:
 -Iris-setosa
 -Iris-versicolor
 -Iris-virginica
-![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/b2d985b2-6e85-4527-a2d0-89398197d7b5)
+
+It is multivariate(more than 2 dependent variable) data set Study of three related Iris flowers species. Data set contain 50 sample of each species(Iris-Setosa, Iris-Virginica, IrisVersicolor)![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/49083c79-323d-4cfd-869c-8e38ae4ddbf1)
+
 
 
 
