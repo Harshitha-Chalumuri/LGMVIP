@@ -33,11 +33,7 @@ Three class for classification are as follows:
 
 **PairPlot**
 
-![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/3931d13e-973a-4ccf-a668-1eb53618886b)
-
-
-
-
+![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/d0183c1d-20d4-48b7-94d7-b4a12ebe409f)
 
 
 
