@@ -31,6 +31,12 @@ Three class for classification are as follows:
 ![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/f96d906f-5d79-4de0-8152-6cf6afa18790)
 
 
+**PairPlot**
+
+![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/3931d13e-973a-4ccf-a668-1eb53618886b)
+
+
+
 
 
 
