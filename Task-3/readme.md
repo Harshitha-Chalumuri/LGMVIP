@@ -29,13 +29,14 @@ The dataset is very comprehensive and contains a lot of terrorism-related inform
 
 We ended up work on 19 columns, which contain the quantitative as well as the qualitative information of the main interest. After decoding, cleaning, filtering, and encoding steps, we've got 46,556 rows x 23 columns, or equivalently 7.1+ MB of disk space.
 
-# AuthorLogo
+# Author
 Harshitha-Chalumuri
 
-# Lessons Learned
-I learned a lot of new things, some of them are given below ---
-Firstly, I feel more comfortable about NumPy, Pandas, Matplotlib and Seaborn after completion of this project.
-I am more confident about my Exploratory Data analysis Process from this task.
+# Libraries used
+Matplotlib 
+Pandas  
+Numpy  
+Seaborn 
 
 
 
