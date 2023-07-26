@@ -17,9 +17,7 @@ The primary objectives are...
 To identify and highlight the geographical and temporal patterns of the terrorism,
 To discover the main parameters of a successful terrorist attack, and
 To allow the user to customize the analysis and to explore the data in the most interactive way.
-** The idea behind the project is to find out how the terrorism has developed in the Western world and whether we need to build tall walls to protect ourself against future threats. We chose our topic to be more global oriented, because
-
-It enables aggregation on many geographical levels including the globe, regions, countries, states, and cities It is very diversified and encapsulates many interesting attributes It has both temporal and geographical data
+** The idea behind the project is to find out how the terrorism has developed in the Western world and whether we need to build tall walls to protect ourself against future threats. We chose our topic to be more global oriented, because It enables aggregation on many geographical levels including the globe, regions, countries, states, and cities It is very diversified and encapsulates many interesting attributes It has both temporal and geographical data
 
 # Project Goal
 This project is based on Global Terrorism Exploratory Data Analysis to get insights about the Most attacked country, region , year and many more things** The data here i used is taken from LGMVIP Internship and the data is from since 1970 to 2015.
