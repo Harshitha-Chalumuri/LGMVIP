@@ -25,10 +25,7 @@ It enables aggregation on many geographical levels including the globe, regions,
 This project is based on Global Terrorism Exploratory Data Analysis to get insights about the Most attacked country, region , year and many more things** The data here i used is taken from LGMVIP Internship and the data is from since 1970 to 2015.
 
 # ⏳ Dataset
-The dataset is very comprehensive and contains a lot of terrorism-related information. We downloaded the entire dataset Global Terrorism Database, available from LGMVIP Internship Task. It contains 1,81,691 terrorist attacks x 135 features, and takes 187.1+ MB of disk space. It's worth to mention that it is almost completely encoded (strings/long numbers to short numbers). To decode the dataset we looked at the codebook available here. After exploring the codebook we discovered some columns to be redundant, or not relevant, which we removed. See the corresponding notebook Cleaning Data for further details on how we approached.
-
-We ended up work on 19 columns, which contain the quantitative as well as the qualitative information of the main interest. After decoding, cleaning, filtering, and encoding steps, we've got 46,556 rows x 23 columns, or equivalently 7.1+ MB of disk space.
-
+The dataset is very comprehensive and contains a lot of terrorism-related information. We downloaded the entire dataset Global Terrorism Database, available from LGMVIP Internship Task.
 # Author
 Harshitha-Chalumuri
 
