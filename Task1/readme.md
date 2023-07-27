@@ -19,11 +19,7 @@ Three class for classification are as follows:
 2. Class Distribution (Species counts are balanced or imbalanced) – Balanced.
 3. Univariate Plots:- Understand each attribute better
 
-**Box and whisker plots(Give idea about distribution of input attributes)**
 
-
-
-![image](https://github.com/Harshitha-Chalumuri/LGMVIP/assets/124804800/e0cf6bd0-860c-47f2-8f90-ffd53ec82c02)
 
 
 **Plotting Histogram:**
